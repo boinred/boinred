@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Younggun%20An&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=System%20Architect%20%7C%20High-Performance%20Game%20Server%20Engineer&subfontSize=18&subfontColor=93c5fd" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f281e,100:059669&height=220&section=header&text=Younggun%20An&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=System%20Architect%20%7C%20High-Performance%20Game%20Server%20Engineer&subfontSize=18&subfontColor=6ee7b7" width="100%" />
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=18%2B+Years+System+Architect+%26+Game+Server+Engineer;Single-Process+17k+CCU+Concurrency+(Lineage+PC);C%2B%2B20+IOCP+%C2%B7+.NET+10+Pipelines+%C2%B7+Distributed+MSA;Engineering+Leadership+(CTO+%40+Doublme+%C2%B7+Founder+%40+Game+Gress)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=18%2B+Years+System+Architect+%26+Game+Server+Engineer;Single-Process+17k+CCU+Concurrency+(Lineage+PC);C%2B%2B20+IOCP+%C2%B7+.NET+10+Pipelines+%C2%B7+Distributed+MSA;Engineering+Leadership+(CTO+%40+Doublme+%C2%B7+Founder+%40+Game+Gress)" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="mailto:boinred@outlook.com"><img src="https://img.shields.io/badge/Email-boinred%40outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
+    <a href="mailto:boinred@outlook.com"><img src="https://img.shields.io/badge/Email-boinred%40outlook.com-059669?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
     <a href="https://github.com/boinred"><img src="https://img.shields.io/badge/GitHub-boinred-181717?style=flat-square&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Seoul%2C%20South%20Korea-lightgrey?style=flat-square&logo=googlemaps&logoColor=red" />
-    <img src="https://img.shields.io/badge/Experience-18%2B%20Years-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Experience-18%2B%20Years-059669?style=flat-square" />
   </p>
 </div>
 
@@ -99,15 +99,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boinred&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boinred&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boinred&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boinred&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boinred&theme=vue-dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boinred&theme=vue-dark" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f281e,100:059669&height=100&section=footer" width="100%" />
 </div>
