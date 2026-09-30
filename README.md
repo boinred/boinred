@@ -7,6 +7,13 @@
 - 🌱 새로운 기술을 배우고 성장하는 것을 좋아합니다
 
 
+## 🚧 진행 중인 프로젝트
+
+| 프로젝트 | 설명 | 스택 |
+|---|---|---|
+| [**FastPort**](https://github.com/boinred/FastPort) | Windows IOCP 위에서 돌아가는 C++20 비동기 TCP 네트워크 라이브러리. Zero-Byte Recv와 Scatter-Gather I/O로 처리량과 지연을 함께 챙깁니다. | C++20 · IOCP · Protobuf |
+| [**FastPortSharp**](https://github.com/boinred/FastPortSharp) | 같은 목표를 .NET 10으로 옮긴 비동기 TCP 서버/클라이언트 프레임워크. IOCP, `Channel<T>`, `ArrayPool`로 게임 서버와 실시간 시스템을 겨냥합니다. | C# · .NET 10 · Protobuf |
+
 ## 경력 
 ### 더블미 2024 ~ 2026
 - CTO : 노예는 아니지만 멋진 슬레이브
