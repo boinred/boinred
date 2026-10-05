@@ -21,7 +21,7 @@
 | :--- | :--- | :--- |
 | [**FastPort**](https://github.com/boinred/FastPort) | Windows IOCP 위에서 돌아가는 C++20 비동기 TCP 네트워크 라이브러리. Zero-Byte Recv와 Scatter-Gather I/O로 처리량과 지연을 함께 챙깁니다. | `C++20` · `IOCP` · `Protobuf` |
 | [**FastPortSharp**](https://github.com/boinred/FastPortSharp) | 같은 목표를 .NET 10으로 옮긴 비동기 TCP 서버/클라이언트 프레임워크. `System.IO.Pipelines`, `Channel<T>`, `ArrayPool`로 게임 서버와 실시간 시스템을 겨냥합니다. | `C#` · `.NET 10` · `Protobuf` |
-| [**Noxtend**](https://github.com/boinred/Noxtend) | **AI Native 3D 에셋 제작 스튜디오.** LLM이 장면과 파츠를 분석하고 이미지 생성 모델이 에셋 레퍼런스를 만듭니다. 사람이 파츠를 검수·수정한 뒤 생성하도록 연결하고, 프롬프트 버전·골든 샘플·호출 기록까지 제품 흐름 안에서 다루는 중입니다. | `React` · `TypeScript` · `ASP.NET Core` · `.NET 10` · `SQL Server` · `Redis Streams` · `OpenAI` · `Anthropic` · `Gemini` |
+| [**Noxtend**](https://github.com/boinred/Noxtend) | **AI Native 3D 에셋 제작 스튜디오.** LLM이 장면과 파츠를 분석하고 이미지 생성 모델이 에셋 레퍼런스를 만듭니다. 사람이 파츠를 검수·수정한 뒤 생성하도록 연결하고, 프롬프트 버전·골든 샘플·호출 기록까지 제품 흐름 안에서 다루는 중입니다. | `React` · `TypeScript` · `ASP.NET Core` · `.NET 10` · `SQL Server` · `Redis Streams` |
 
 ---
 
