@@ -20,9 +20,9 @@
 
 | 프로젝트 | 설명 | 스택 |
 | :--- | :--- | :--- |
-| [**FastPort**](https://github.com/boinred/FastPort) | Windows IOCP 위에서 돌아가는 C++20 비동기 TCP 네트워크 라이브러리. Zero-Byte Recv와 Scatter-Gather I/O로 처리량과 지연을 함께 챙깁니다. | `C++20` · `IOCP` · `Protobuf` |
-| [**FastPortSharp**](https://github.com/boinred/FastPortSharp) | 같은 목표를 .NET 10으로 옮긴 비동기 TCP 서버/클라이언트 프레임워크. `System.IO.Pipelines`, `Channel<T>`, `ArrayPool`로 게임 서버와 실시간 시스템을 겨냥합니다. | `C#` · `.NET 10` · `Protobuf` |
-| [**Noxtend**](https://github.com/boinred/Noxtend) | **AI Native 3D 에셋 제작 스튜디오.** LLM이 장면과 파츠를 분석하고 이미지 생성 모델이 에셋 레퍼런스를 만듭니다. 사람이 파츠를 검수·수정한 뒤 생성하도록 연결하고, 프롬프트 버전·골든 샘플·호출 기록까지 제품 흐름 안에서 다루는 중입니다. | `React` · `TypeScript` · `ASP.NET Core` · `.NET 10` · `SQL Server` · `Redis Streams` |
+| [**FastPort**](https://github.com/boinred/FastPort) | IOCP를 이용한 C++ 네트워크 프로젝트<br>• **Zero-Byte Recv** — 쉬고 있는 세션은 0바이트 수신만 걸어 두어, 접속이 많아도 수신 버퍼를 잡아두지 않습니다<br>• **Scatter-Gather 송신** — 여러 버퍼를 `WSABUF`로 묶어 한 번에 보냅니다<br>• **Zero-copy 수신 + 객체 풀** — 자주 쓰는 패킷·세션 경로에서 복사와 할당을 줄입니다 | `C++20` · `IOCP` · `Protobuf` |
+| [**FastPortSharp**](https://github.com/boinred/FastPortSharp) | IOCP를 이용한 C# 네트워크 프로젝트 (.NET 10)<br>• **ArrayPool 원형 버퍼** — 버퍼를 재사용해 트래픽이 계속 몰려도 GC 부담이 적습니다<br>• **Bounded `Channel<T>`** — 송수신 파이프라인에 써서 `BufferBlock<T>` 대비 4배 빠르고 메모리는 69% 덜 씁니다 | `C#` · `.NET 10` · `Protobuf` |
+| [**Noxtend**](https://github.com/boinred/Noxtend) | AI로 3D 에셋을 만드는 프로젝트<br>• LLM이 장면과 파츠를 분석하고, 이미지 생성 모델이 에셋 레퍼런스를 만듭니다<br>• 사람이 파츠를 검수·수정한 뒤 생성으로 넘어갑니다<br>• 프롬프트 버전, 골든 샘플, 호출 기록을 제품 안에서 관리합니다 | `React` · `TypeScript` · `ASP.NET Core` · `.NET 10` · `SQL Server` · `Redis Streams` |
 
 ## 📜 Quest Log
 
