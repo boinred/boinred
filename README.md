@@ -20,9 +20,9 @@
 
 | 프로젝트 | 설명 | 스택 |
 | :--- | :--- | :--- |
-| [**FastPort**](https://github.com/boinred/FastPort) | IOCP를 이용한 C++ 네트워크 프로젝트<br>• **Scatter-Gather 송신** — 여러 버퍼를 `WSABUF`로 묶어 한 번에 보냅니다<br>• **Zero-copy 수신 + 객체 풀** — 자주 쓰는 패킷·세션 경로에서 복사와 할당을 줄입니다 | `C++20` · `IOCP` · `Protobuf` |
-| [**FastPortSharp**](https://github.com/boinred/FastPortSharp) | IOCP를 이용한 C# 네트워크 프로젝트 (.NET 10)<br>• **ArrayPool 원형 버퍼** — 버퍼를 재사용해 트래픽이 계속 몰려도 GC 부담이 적습니다<br>• **Bounded `Channel<T>`** — 송수신 파이프라인에 써서 `BufferBlock<T>` 대비 4배 빠르고 메모리는 69% 덜 씁니다 | `C#` · `.NET 10` · `Protobuf` |
-| [**Noxtend**](https://github.com/boinred/Noxtend) | AI로 3D 에셋을 만드는 프로젝트<br>• LLM이 장면과 파츠를 분석하고, 이미지 생성 모델이 에셋 레퍼런스를 만듭니다<br>• 사람이 파츠를 검수·수정한 뒤 생성으로 넘어갑니다<br>• 프롬프트 버전, 골든 샘플, 호출 기록을 제품 안에서 관리합니다 | `React` · `TypeScript` · `ASP.NET Core` · `.NET 10` · `SQL Server` · `Redis Streams` |
+| [**FastPort**](https://github.com/boinred/FastPort) | IOCP를 이용한 C++ 네트워크 프로젝트<br>• **Scatter-Gather 송신** — 여러 버퍼를 `WSABUF`로 묶어 한 번에 송신<br>• **Zero-copy 수신 + 객체 풀** — 자주 쓰는 패킷·세션 경로의 복사와 할당 최소화 | `C++20` · `IOCP` · `Protobuf` |
+| [**FastPortSharp**](https://github.com/boinred/FastPortSharp) | IOCP를 이용한 C# 네트워크 프로젝트 (.NET 10)<br>• **ArrayPool 원형 버퍼** — 버퍼 재사용으로 트래픽이 계속 몰려도 GC 부담 최소화<br>• **Bounded `Channel<T>`** — 송수신 파이프라인에 적용, `BufferBlock<T>` 대비 4배 빠르고 메모리 69% 절감 | `C#` · `.NET 10` · `Protobuf` |
+| [**Noxtend**](https://github.com/boinred/Noxtend) | AI로 3D 에셋을 만드는 프로젝트<br>• LLM의 장면·파츠 분석과 이미지 생성 모델의 에셋 레퍼런스 생성<br>• 사람이 파츠를 검수·수정한 뒤 생성으로 연결<br>• 프롬프트 버전, 골든 샘플, 호출 기록을 제품 안에서 관리 | `React` · `TypeScript` · `ASP.NET Core` · `.NET 10` · `SQL Server` · `Redis Streams` |
 
 ## 📜 Quest Log
 
