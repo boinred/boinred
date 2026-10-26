@@ -58,6 +58,9 @@
   <a href="https://github.com/boinred">
     <img src="https://img.shields.io/github/followers/boinred?label=Follow%20%40boinred&style=for-the-badge&logo=github&labelColor=1a1b27&color=bb9af7" alt="Follow @boinred on GitHub" />
   </a>
+  <a href="mailto:boinred@outlook.com">
+    <img src="https://img.shields.io/badge/Email-boinred%40outlook.com-bb9af7?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=1a1b27" alt="Email boinred@outlook.com" />
+  </a>
 </p>
 
 <p align="center"><sub><code>Connection closed by remote host. GG! 🎮</code></sub></p>
